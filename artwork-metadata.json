@@ -1,0 +1,58 @@
+{
+  "name": "Residual Light; or, Cellphone Afterimage",
+  "artist": "Avery Lake",
+  "year": "2026",
+  "description": "A cellphone afterimage, the ghost of a screen just looked at, decays to black in twelve seconds. The night work in a diptych of received and residual light.",
+  "external_url": "https://afterimage.averylakeofficial.com/",
+  "networked_art_url": "https://networked.art/averylake/0x73bf0861d91411ee053c7365772394d1e86a71c0/2/details",
+  "artist_profile": "https://networked.art/averylake/artist",
+  "artist_wallet": "0x34c0e29caada610da60549fec756e7000023cc84",
+  "diptych_position": 2,
+  "diptych_works": [
+    "https://first.averylakeofficial.com/artwork-metadata.json",
+    "https://afterimage.averylakeofficial.com/artwork-metadata.json"
+  ],
+  "animation_url": "https://afterimage.averylakeofficial.com/assets/video/residual-light-cellphone-afterimage.mp4",
+  "image": "https://afterimage.averylakeofficial.com/assets/images/residual-light-cover.jpg",
+  "social_image": "https://afterimage.averylakeofficial.com/assets/social/residual-light-og.png",
+  "media": {
+    "type": "video/mp4",
+    "format": "4:5",
+    "dimensions": "1080 x 1350 px",
+    "duration": "12 seconds",
+    "frame_rate": "24 fps",
+    "sound": "silent"
+  },
+  "companion_materials": [
+    "Fixed still of the afterimage at full luminance",
+    "Five-state decay sequence"
+  ],
+  "edition": {
+    "type": "unique",
+    "size": 1,
+    "number": 1,
+    "availability": "available as a unique 1/1 on Networked.art"
+  },
+  "collector_documentation": {
+    "provided_after_settlement": [
+      "Artist-signed certificate of authenticity",
+      "Collector letter",
+      "Selected documentation stills"
+    ],
+    "public_context": "https://afterimage.averylakeofficial.com/"
+  },
+  "attributes": [
+    { "trait_type": "Medium", "value": "Single-channel digital video" },
+    { "trait_type": "Duration", "value": "12 seconds" },
+    { "trait_type": "Sound", "value": "Silent" },
+    { "trait_type": "Decay", "value": "Strictly monotonic, 288 frames, no return" },
+    { "trait_type": "Conceptual field", "value": "Perception, screens, residue, the Intelligence Age" },
+    { "trait_type": "Edition", "value": "1 of 1" },
+    { "trait_type": "Diptych role", "value": "Night work: residual light" }
+  ],
+  "technical_provenance": {
+    "concept_and_artwork": "Avery Lake",
+    "master": "Single-channel digital video, 1080 x 1350 px, 12 seconds, silent, fixed"
+  },
+  "rights": "Artwork copyright 2026 The Art of Avery Lake."
+}

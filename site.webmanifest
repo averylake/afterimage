@@ -1,0 +1,8 @@
+{
+  "name": "Residual Light; or, Cellphone Afterimage - Avery Lake",
+  "short_name": "Residual Light",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#050606",
+  "background_color": "#050606",
+  "display": "browser"
+}
